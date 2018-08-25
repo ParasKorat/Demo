@@ -4,7 +4,7 @@ import { View, LayoutAnimation, TouchableOpacity, Text, StyleSheet } from 'react
 class Animations extends Component {
    state = {
       myStyle: {
-         height: 100,
+         height: 50,
          backgroundColor: 'red'
       }
    } 
